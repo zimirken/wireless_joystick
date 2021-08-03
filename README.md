@@ -17,3 +17,5 @@ This is waaaay better than I was expecting. Which means this is a perfectly viab
 So I'm posting my code here. It's pretty straightforward so you shouldn't have any trouble. Make sure you check to make sure the code matches your wiring for the NRF module. Some of these programs are set for two pin wiring and others for four pin.
 
 Link to thingiverse files for the mini steering wheel here: https://www.thingiverse.com/thing:4923941
+
+I wired up the receiver on a perf board, and the transmitter was done dead bug style.
